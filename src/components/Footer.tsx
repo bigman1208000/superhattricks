@@ -9,7 +9,7 @@ export default function Footer() {
           <p className="text-gray-400 mb-6">
             Transforming ideas into powerful digital solutions.
           </p>
-          <p className="text-gray-400">&copy; 2024 SuperHattricks. All rights reserved.</p>
+          <p className="text-gray-400">&copy; 2025 SuperHattricks. All rights reserved.</p>
         </div>
       </div>
     </footer>
